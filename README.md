@@ -26,3 +26,4 @@
 <source src="file:///C:/Users/Пользователь/Desktop/ЯваСкрипт/audio.ogg" "type="audio.ogg; codecs=vorbis">
 <source src="file:///C:/Users/Пользователь/Desktop/ЯваСкрипт/audio.mpeg" "type="audio.mpeg">
 </audio>
+стыд и срам 
