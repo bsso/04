@@ -4,7 +4,7 @@
   <meta charset="utf-8">
 </head>
 <body>
-  <title>Папа Фрэнку</title>
+  <title>Сказ о том как я ебался с плеером </title>
   <p>please b0ss</p>
   <script>
     alert('gibe de pussi');
